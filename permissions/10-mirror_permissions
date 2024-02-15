@@ -1,2 +1,2 @@
 #!/bin/bash
-chomod --reference=olleh hello
+sudo chomod --reference=olleh hello
