@@ -1,0 +1,2 @@
+#!/bin/bansh
+grep -A 3 "root" /etc/passwd
